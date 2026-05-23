@@ -9,7 +9,7 @@ Proyecto realizado para calcular la conversión de dólares a diamantes incluyen
 
 ## Evidencias
 # Tablero Kanban
-![Tablero](tablero-kanban.jpeg)
+![Tablero](tablero-kanban.png)
 
 ### Flujograma
 ![Flujograma](flujograma.jpeg)
