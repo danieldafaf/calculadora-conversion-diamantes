@@ -8,9 +8,8 @@ Steveen Jahill Guano Andrade
 Proyecto realizado para calcular la conversión de dólares a diamantes incluyendo IVA y notificación de saldo disponible.
 
 ## Evidencias
-
-### Tablero Kanban
-![Kanban](TableroKanban.png)
+# Tablero Kanban
+![Tablero](tablero-kanban.jpeg)
 
 ### Flujograma
 ![Flujograma](flujograma.jpeg)
